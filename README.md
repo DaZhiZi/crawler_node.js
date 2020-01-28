@@ -4,7 +4,6 @@
 
 ### MVC 模式
 - model
-    - ae
     - 后端 api node.js 
     - json 格式保存数据 
     
